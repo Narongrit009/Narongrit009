@@ -40,7 +40,7 @@
 ## Socials
 
 <p align="left"> 
-  <a href="https://www.facebook.com/narongrit suaysom" target="_blank" rel="noreferrer"> 
+  <a href="https://www.facebook.com/profile.php?id=100012620647871&mibextid=JRoKGi" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="32" height="32" alt="Facebook" />
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
