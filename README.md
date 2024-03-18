@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/profile.php?id=100012620647871&mibextid=JRoKGi" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="32" height="32" alt="Facebook" />
   </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
+  <a href="https://line.me/ti/p/M3N3XpjBWC" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/2048px-LINE_logo.svg.png" width="30" height="30" alt="Line" />
   </a> 
   <a href="http://www.instagram.com/save_nrr" target="_blank" rel="noreferrer"> 
