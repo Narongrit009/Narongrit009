@@ -49,10 +49,10 @@
   <a href="http://www.instagram.com/save_nrr" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="30" height="30" alt="Instagram" />
   </a>
-  <a href="" target="_blank" rel="noreferrer"> 
+  <a href="https://www.threads.net/@save_nrr" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/480px-X_logo_2023_%28white%29.png" width="30" height="30" alt="X" />
   </a>
-  <a href="" target="_blank" rel="noreferrer"> 
+  <a href="https://www.tiktok.com/@saveeeees?_t=8klt9KrGwT3&_r=1" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338430_1280.png" width="32" height="32" alt="Tiktok" />
   </a>
 </p>
